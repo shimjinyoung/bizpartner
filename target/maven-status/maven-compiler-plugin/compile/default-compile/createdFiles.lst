@@ -1,0 +1,13 @@
+hotelmanage\external\BizPartnerManagementService.class
+hotelmanage\PolicyHandler.class
+hotelmanage\Application.class
+hotelmanage\BizPartnerInfoRegistered.class
+hotelmanage\BizPartnerManagementController.class
+hotelmanage\config\kafka\KafkaProcessor.class
+hotelmanage\RoomScoreRegistered.class
+hotelmanage\AbstractEvent.class
+hotelmanage\BizPartnerManagementRepository.class
+hotelmanage\external\BizPartnerManagement.class
+hotelmanage\BizPartnerManagement.class
+hotelmanage\AbstractEvent$1.class
+hotelmanage\BizPartnerInfoModified.class
